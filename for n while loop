@@ -1,0 +1,19 @@
+for (var i = 0; i<101; i++)
+{console.log(i)}
+
+// var i = 0
+// while (i<101)
+// {console.log(i) 
+// i = i + 1}
+
+// 200 even numbers
+
+// for (var i = 0; i<201; i++)
+// {console.log(i)
+// i = i + 1
+// }
+
+// var i = 0
+// while (i<201)
+// {console.log(i)
+// i = i + 2}
